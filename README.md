@@ -6,6 +6,7 @@ Este repositorio centraliza los textos de un Design System y mantiene un **flujo
 
 ## 1. Flujo general
 
+markdown
 +-------------------+ push JSON/MD +------------------+
 | |-------------------------------->| |
 | Google Sheets | | GitHub |
