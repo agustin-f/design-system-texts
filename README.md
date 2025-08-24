@@ -23,9 +23,6 @@ v v
 +-------------------+ +------------------+
 
 markdown
-Copiar
-Editar
-
 ### 🔹 Cómo leer el diagrama
 
 1. **Google Sheets → GitHub**  
@@ -82,16 +79,12 @@ Se generan y suben automáticamente fundamentos.json y fundamentos.md a GitHub.
 Clonar o actualizar el repositorio:
 
 bash
-Copiar
-Editar
 git pull origin main
 Editar los archivos JSON localmente.
 
 Commit y push:
 
 bash
-Copiar
-Editar
 git add fundamentos.json
 git commit -m "Actualización local de textos"
 git push origin main
@@ -99,8 +92,6 @@ git push origin main
 Insertar como Embed → Markdown:
 
 perl
-Copiar
-Editar
 https://raw.githubusercontent.com/agustin-f/design-system-texts/main/fundamentos.md
 Cada actualización en GitHub se reflejará automáticamente al refrescar la página.
 
