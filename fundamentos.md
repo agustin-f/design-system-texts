@@ -1,14 +1,14 @@
-# ? Fundamentos del Design System X
+# Fundamentos del Design System X
 
-## ? Colores principales
+## Colores principales
 
 Usamos una paleta accesible siguiendo WCAG 2.1 AA.
 
-## ? Tipograf?a
+## Tipograf?a
 
 Fuente primaria: Inter. Fuente secundaria: Roboto Mono.
 
 ### Recursos externos
 
-? [Gu?a oficial WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
+[Gu?a oficial WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
