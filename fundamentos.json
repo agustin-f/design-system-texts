@@ -1,0 +1,30 @@
+[
+  {
+    "type": "H1",
+    "text": "? Fundamentos del Design System X"
+  },
+  {
+    "type": "H2",
+    "text": "? Colores principales"
+  },
+  {
+    "type": "P",
+    "text": "Usamos una paleta accesible siguiendo WCAG 2.1 AA."
+  },
+  {
+    "type": "H2",
+    "text": "? Tipograf?a"
+  },
+  {
+    "type": "P",
+    "text": "Fuente primaria: Inter. Fuente secundaria: Roboto Mono."
+  },
+  {
+    "type": "H3",
+    "text": "Recursos externos"
+  },
+  {
+    "type": "P",
+    "text": "? [Gu?a oficial WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)"
+  }
+]
