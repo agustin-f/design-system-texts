@@ -1,11 +1,11 @@
 [
   {
     "type": "H1",
-    "text": "? Fundamentos del Design System X"
+    "text": "Fundamentos del Design System X"
   },
   {
     "type": "H2",
-    "text": "? Colores principales"
+    "text": "Colores principales"
   },
   {
     "type": "P",
@@ -13,7 +13,7 @@
   },
   {
     "type": "H2",
-    "text": "? Tipograf?a"
+    "text": "Tipograf?a"
   },
   {
     "type": "P",
@@ -25,6 +25,6 @@
   },
   {
     "type": "P",
-    "text": "? [Gu?a oficial WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)"
+    "text": "[Gu?a oficial WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)"
   }
 ]
